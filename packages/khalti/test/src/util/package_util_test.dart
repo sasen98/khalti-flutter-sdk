@@ -45,6 +45,7 @@ void main() {
       setUp(
         () async {
           PackageInfo.setMockInitialValues(
+            installerStore: '',
             appName: 'appName',
             packageName: 'packageName',
             version: 'version',
