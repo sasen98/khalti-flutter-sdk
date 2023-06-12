@@ -18,7 +18,7 @@ dependencies:
   http: ^0.13.5
   khalti_core:
     git:
-      url: https://github.com/JagaranMaharjan/khalti-flutter-sdk
+      url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti_core
 
   package_info_plus: ^4.0.2
