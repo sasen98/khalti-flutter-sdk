@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^2.0.6
-  intl: ^0.18.1
+  intl: ^0.18.0
   khalti:
     git:
       url: https://github.com/sasen98/khalti-flutter-sdk
