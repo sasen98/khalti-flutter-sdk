@@ -7,7 +7,7 @@ issue_tracker: https://github.com/khalti/khalti-flutter-sdk/issues
 repository: https://github.com/khalti/khalti-flutter-sdk/tree/master/packages/khalti_core
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
+  sdk: ">=2.18.2 <4.0.0"
 
 dev_dependencies:
   flutter_lints: ^2.0.1

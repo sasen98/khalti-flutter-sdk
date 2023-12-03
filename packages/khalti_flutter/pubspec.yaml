@@ -7,8 +7,8 @@ issue_tracker: https://github.com/khalti/khalti-flutter-sdk/issues
 repository: https://github.com/khalti/khalti-flutter-sdk/tree/master/packages/khalti_flutter
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
-  flutter: '>=3.0.0'
+  sdk: ">=2.18.2 <4.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
@@ -19,6 +19,8 @@ dependencies:
     git:
       url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti
+      ref: enhc/version-upgrade-nov-2023
+
   url_launcher: ^6.1.11
 
 dev_dependencies:
