@@ -20,6 +20,7 @@ dependencies:
     git:
       url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti_core
+      ref: enhc/version-down
 
   package_info_plus: ^4.0.2
 
