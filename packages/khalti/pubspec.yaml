@@ -9,7 +9,7 @@ issue_tracker: https://github.com/khalti/khalti-flutter-sdk/issues
 repository: https://github.com/khalti/khalti-flutter-sdk/tree/master/packages/khalti
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
+  sdk: ">=2.18.2 <3.0.0"
 
 dependencies:
   device_info_plus: ^9.0.2
@@ -21,7 +21,7 @@ dependencies:
       url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti_core
 
-  package_info_plus: ^4.0.2
+  package_info_plus: ^5.0.1
 
 dev_dependencies:
   flutter_test:
