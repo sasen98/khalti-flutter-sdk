@@ -21,7 +21,7 @@ dependencies:
       url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti_core
 
-  package_info_plus: ^5.0.1
+  package_info_plus: ^4.0.2
 
 dev_dependencies:
   flutter_test:
