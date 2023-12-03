@@ -21,6 +21,7 @@ dependencies:
       url: https://github.com/sasen98/khalti-flutter-sdk
       path: packages/khalti_core
       ref: enhc/version-upgrade-nov-2023
+
   package_info_plus: ^5.0.1
 
 dev_dependencies:
